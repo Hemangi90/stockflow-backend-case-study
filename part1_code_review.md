@@ -1,0 +1,5 @@
+- Understanding
+- Issues
+- Impact
+- Fixed Code
+- Summary
